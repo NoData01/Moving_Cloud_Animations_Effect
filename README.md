@@ -3,8 +3,7 @@
 A simple animation project using HTML, CSS, and JavaScript to create a floating cloud effect across the screen. The clouds move randomly and have varying sizes and speeds, giving a dynamic sky effect.
 
 ## Demo
-![Cloud Animation Preview](demo.gif)  
-*(Replace this with an actual GIF or screenshot of your project)*
+![Cloud Animation Preview](static/screenshot.png)  
 
 ## Features
 - **Smooth Cloud Movement:** Clouds drift across the screen at different speeds and directions.
