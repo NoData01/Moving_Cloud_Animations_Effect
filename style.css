@@ -1,0 +1,44 @@
+/* Ensure the body has no margins */
+body {
+    margin: 0;
+    background-color: skyblue; /* Move skyblue here for clarity */
+}
+
+/* Container should have full height and relative positioning */
+#container {
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Cloud styling */
+.cloud {
+    width: 200px;
+    height: 80px;
+    background-color: white;
+    border-radius: 40px;
+    position: absolute;
+    transition: all linear 3s;
+}
+
+/* Bubble 1 */
+.cloudBubble1 {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 50px;
+    position: absolute;
+    top: -50px;
+    left: 30px;
+}
+
+/* Bubble 2 */
+.cloudBubble2 {
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    border-radius: 30px;
+    position: absolute;
+    top: -30px;
+    right: 30px;
+}
